@@ -13,18 +13,6 @@
 
 ---
 
-## 📋 Table des matières
-
-- [À propos](#-à-propos)
-- [Services](#-services)
-- [Caractéristiques](#-caractéristiques)
-- [Technologies](#-technologies)
-- [Structure du projet](#-structure-du-projet)
-- [Personnalisation](#-personnalisation)
-- [Contact](#-contact)
-
----
-
 ## 🎯 À propos
 
 **SMC Network** est une plateforme innovante dédiée à l'hébergement et à l'accompagnement de projets web. Nous combinons expertise technique et accompagnement personnalisé pour transformer vos idées en succès concrets.
