@@ -1,7 +1,7 @@
 # 🚀 SMC Network
 
 <div align="center">
-  <img src="https://smc-network.net/logo" alt="SMC Network Logo" width="200"/>
+  <img src="https://smc-network.net/assets/logo.png" alt="SMC Network Logo" width="200"/>
   
   ### Votre partenaire pour héberger, incuber et gérer vos projets
   
