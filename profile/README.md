@@ -91,9 +91,9 @@ Outils professionnels et dashboard centralisé pour gérer efficacement vos proj
 - **Support** : Disponible 24/7
 
 ### Réseaux sociaux
-- Twitter : [@smc-network](#)
-- LinkedIn : [SMC Network](#)
-- GitHub : [@smc-network](#)
+- Twitter/X : [@smc-network]((https://x.com/smc_netwrk))
+- LinkedIn : [SMC Network]((https://www.linkedin.com/in/smc-network-b00210399))
+- GitHub : [@smc-network]((https://github.com/SaphireMC))
 
 ---
 
